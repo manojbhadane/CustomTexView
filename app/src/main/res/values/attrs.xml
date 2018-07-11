@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CustomTextView">
+        <attr name="fontname" format="integer">
+            <enum name="UbuntuRegular" value="1" />
+            <enum name="UbuntuBold" value="2" />
+            <enum name="UbuntuItalic" value="3" />
+        </attr>
+    </declare-styleable>
+
+</resources>
